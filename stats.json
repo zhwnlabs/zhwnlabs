@@ -1,17 +1,17 @@
 {
   "username": "zhwnlabs",
-  "totalStars": 2,
-  "totalCommits": 883,
-  "publicRepos": 19,
+  "totalStars": 0,
+  "totalCommits": 836,
+  "publicRepos": 12,
   "languages": {
-    "CSS": 86352,
-    "HTML": 129370,
-    "JavaScript": 143547,
-    "Python": 25934,
-    "TypeScript": 224202,
+    "JavaScript": 125028,
+    "CSS": 60706,
+    "HTML": 117481,
+    "Python": 13438,
+    "TypeScript": 249281,
     "Java": 1301,
     "Shell": 23278,
     "PHP": 10855
   },
-  "updated": "2026-11-06T05:46:42.469Z"
+  "updated": "2026-11-07T05:17:17.354Z"
 }
