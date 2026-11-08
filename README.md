@@ -11,7 +11,10 @@
 
 ---
 
-##  About Me
+<details>
+  <summary>📁 About Me</summary>
+
+## About Me
 
 <table>
   <tr>
@@ -26,13 +29,13 @@
   </tr>
 </table>
 
----
-
-##  Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,py,obsidian,ai,blender&perline=9" alt="JavaScript, TypeScript, HTML, CSS, PHP, Python, Obsidian, Illustrator, Blender">
 </p>
+
+</details>
 
 ---
 
@@ -46,11 +49,9 @@
   <img src="https://streak-stats.demolab.com?user=zhwnlabs&theme=dark&hide_border=true" alt="GitHub streak for zhwnlabs">
 </p>
 
----
-
-
-##  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zhwnlabs/zhwnlabs/output/snake.svg" alt="Contribution snake animation for zhwnlabs">
 </p>
+
+---
